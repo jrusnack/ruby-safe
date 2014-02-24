@@ -1,0 +1,2 @@
+puts "RUBYOPT:#{ENV['RUBYOPT']}"
+puts "RUBYLIB:#{ENV['RUBYLIB']}"
